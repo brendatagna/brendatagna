@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Project Manager in Maintenance.
 - 🌱 I’m currently learning: Python / Javascript 
-- 📫 How to reach me: www.linkedin.com/in/brenda-tagna
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brenda-tagna) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: hum...
 
